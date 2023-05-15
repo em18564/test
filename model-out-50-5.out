@@ -1,0 +1,947 @@
+0  :  AGENT  10  DIED
+1  :  AGENT  1  DIED
+2  :  AGENT  2  DIED
+3  :  AGENT  3  DIED
+4  :  AGENT  4  DIED
+5  :  AGENT  5  DIED
+7 :  7  spoke to  1  expressiveness updated from  0.30078125  to  0.3359375
+7 :  7  spoke to  2  expressiveness updated from  0.26953125  to  0.33984375
+6 :  7  spoke to  3  expressiveness updated from  0.3125  to  0.37109375
+7 :  7  spoke to  4  expressiveness updated from  0.3125  to  0.36328125
+7 :  7  spoke to  5  expressiveness updated from  0.23828125  to  0.2890625
+6 :  7  spoke to  6  expressiveness updated from  0.2890625  to  0.3359375
+7 :  7  spoke to  8  expressiveness updated from  0.28125  to  0.34375
+6 :  7  spoke to  9  expressiveness updated from  0.36328125  to  0.421875
+7 :  7  spoke to  10  expressiveness updated from  0.375  to  0.32421875
+6  :  AGENT  6  DIED
+8 :  7  spoke to  1  expressiveness updated from  0.3359375  to  0.359375
+8 :  7  spoke to  2  expressiveness updated from  0.33984375  to  0.296875
+8 :  7  spoke to  3  expressiveness updated from  0.37109375  to  0.41796875
+8 :  7  spoke to  4  expressiveness updated from  0.36328125  to  0.40234375
+8 :  7  spoke to  5  expressiveness updated from  0.2890625  to  0.33984375
+8 :  7  spoke to  6  expressiveness updated from  0.3359375  to  0.38671875
+8 :  7  spoke to  8  expressiveness updated from  0.34375  to  0.37109375
+8 :  7  spoke to  9  expressiveness updated from  0.421875  to  0.4375
+8 :  7  spoke to  10  expressiveness updated from  0.32421875  to  0.359375
+7  :  AGENT  7  DIED
+8  :  AGENT  8  DIED
+9 :  9  spoke to  1  expressiveness updated from  0.359375  to  0.39453125
+8 :  9  spoke to  2  expressiveness updated from  0.296875  to  0.359375
+9 :  9  spoke to  3  expressiveness updated from  0.41796875  to  0.44140625
+9 :  9  spoke to  4  expressiveness updated from  0.40234375  to  0.4375
+9 :  9  spoke to  5  expressiveness updated from  0.33984375  to  0.38671875
+9 :  9  spoke to  6  expressiveness updated from  0.38671875  to  0.44921875
+8 :  9  spoke to  7  expressiveness updated from  0.3359375  to  0.38671875
+9 :  9  spoke to  8  expressiveness updated from  0.37109375  to  0.41015625
+9 :  9  spoke to  10  expressiveness updated from  0.359375  to  0.3984375
+9  :  AGENT  9  DIED
+10 :  10  spoke to  1  expressiveness updated from  0.39453125  to  0.41796875
+10 :  10  spoke to  2  expressiveness updated from  0.359375  to  0.390625
+9 :  10  spoke to  3  expressiveness updated from  0.44140625  to  0.44140625
+9 :  10  spoke to  4  expressiveness updated from  0.4375  to  0.453125
+9 :  10  spoke to  5  expressiveness updated from  0.38671875  to  0.42578125
+9 :  10  spoke to  6  expressiveness updated from  0.44921875  to  0.46484375
+10 :  10  spoke to  7  expressiveness updated from  0.38671875  to  0.38671875
+10 :  10  spoke to  8  expressiveness updated from  0.41015625  to  0.421875
+10 :  10  spoke to  9  expressiveness updated from  0.4375  to  0.44921875
+10 :  10  spoke to  1  expressiveness updated from  0.41796875  to  0.4296875
+10 :  10  spoke to  2  expressiveness updated from  0.390625  to  0.40625
+10 :  10  spoke to  3  expressiveness updated from  0.44140625  to  0.4453125
+10 :  10  spoke to  4  expressiveness updated from  0.453125  to  0.45703125
+10 :  10  spoke to  5  expressiveness updated from  0.42578125  to  0.44140625
+11 :  10  spoke to  6  expressiveness updated from  0.46484375  to  0.47265625
+10 :  10  spoke to  7  expressiveness updated from  0.38671875  to  0.3984375
+11 :  10  spoke to  8  expressiveness updated from  0.421875  to  0.44140625
+10 :  10  spoke to  9  expressiveness updated from  0.44921875  to  0.4609375
+10  :  AGENT  10  DIED
+12 :  1  spoke to  2  expressiveness updated from  0.40625  to  0.41015625
+12 :  1  spoke to  3  expressiveness updated from  0.4453125  to  0.4375
+12 :  1  spoke to  4  expressiveness updated from  0.45703125  to  0.45703125
+12 :  1  spoke to  5  expressiveness updated from  0.44140625  to  0.47265625
+12 :  1  spoke to  6  expressiveness updated from  0.47265625  to  0.421875
+12 :  1  spoke to  7  expressiveness updated from  0.3984375  to  0.41015625
+12 :  1  spoke to  8  expressiveness updated from  0.44140625  to  0.45703125
+12 :  1  spoke to  9  expressiveness updated from  0.4609375  to  0.45703125
+12 :  1  spoke to  10  expressiveness updated from  0.3984375  to  0.4140625
+11  :  AGENT  1  DIED
+12 :  5  spoke to  1  expressiveness updated from  0.4296875  to  0.42578125
+12 :  5  spoke to  2  expressiveness updated from  0.41015625  to  0.42578125
+13 :  5  spoke to  3  expressiveness updated from  0.4375  to  0.44140625
+13 :  5  spoke to  4  expressiveness updated from  0.45703125  to  0.45703125
+13 :  5  spoke to  6  expressiveness updated from  0.421875  to  0.4296875
+12 :  5  spoke to  7  expressiveness updated from  0.41015625  to  0.4296875
+13 :  5  spoke to  8  expressiveness updated from  0.45703125  to  0.46875
+13 :  5  spoke to  9  expressiveness updated from  0.45703125  to  0.46484375
+13 :  5  spoke to  10  expressiveness updated from  0.4140625  to  0.42578125
+12  :  AGENT  2  DIED
+13 :  4  spoke to  1  expressiveness updated from  0.42578125  to  0.44140625
+13 :  4  spoke to  2  expressiveness updated from  0.42578125  to  0.42578125
+13 :  4  spoke to  3  expressiveness updated from  0.44140625  to  0.44921875
+14 :  4  spoke to  5  expressiveness updated from  0.47265625  to  0.48828125
+13 :  4  spoke to  6  expressiveness updated from  0.4296875  to  0.4375
+13 :  4  spoke to  7  expressiveness updated from  0.4296875  to  0.484375
+14 :  4  spoke to  8  expressiveness updated from  0.46875  to  0.46875
+13 :  4  spoke to  9  expressiveness updated from  0.46484375  to  0.49609375
+13 :  4  spoke to  10  expressiveness updated from  0.42578125  to  0.43359375
+13  :  AGENT  3  DIED
+15 :  4  spoke to  1  expressiveness updated from  0.44140625  to  0.4375
+15 :  4  spoke to  2  expressiveness updated from  0.42578125  to  0.44921875
+15 :  4  spoke to  3  expressiveness updated from  0.44921875  to  0.4609375
+15 :  4  spoke to  5  expressiveness updated from  0.48828125  to  0.49609375
+15 :  4  spoke to  6  expressiveness updated from  0.4375  to  0.46484375
+15 :  4  spoke to  7  expressiveness updated from  0.484375  to  0.48046875
+15 :  4  spoke to  8  expressiveness updated from  0.46875  to  0.47265625
+15 :  4  spoke to  9  expressiveness updated from  0.49609375  to  0.5078125
+14 :  4  spoke to  10  expressiveness updated from  0.43359375  to  0.44921875
+14  :  AGENT  4  DIED
+15 :  5  spoke to  1  expressiveness updated from  0.4375  to  0.46875
+16 :  5  spoke to  2  expressiveness updated from  0.44921875  to  0.48046875
+15 :  5  spoke to  3  expressiveness updated from  0.4609375  to  0.46875
+15 :  5  spoke to  4  expressiveness updated from  0.45703125  to  0.45703125
+15 :  5  spoke to  6  expressiveness updated from  0.46484375  to  0.4765625
+15 :  5  spoke to  7  expressiveness updated from  0.48046875  to  0.5
+16 :  5  spoke to  8  expressiveness updated from  0.47265625  to  0.46875
+15 :  5  spoke to  9  expressiveness updated from  0.5078125  to  0.51953125
+15 :  5  spoke to  10  expressiveness updated from  0.44921875  to  0.484375
+15  :  AGENT  5  DIED
+17 :  6  spoke to  1  expressiveness updated from  0.46875  to  0.515625
+16 :  6  spoke to  2  expressiveness updated from  0.48046875  to  0.48828125
+16 :  6  spoke to  3  expressiveness updated from  0.46875  to  0.48046875
+16 :  6  spoke to  4  expressiveness updated from  0.45703125  to  0.4609375
+16 :  6  spoke to  5  expressiveness updated from  0.49609375  to  0.5078125
+16 :  6  spoke to  7  expressiveness updated from  0.5  to  0.50390625
+16 :  6  spoke to  8  expressiveness updated from  0.46875  to  0.484375
+17 :  6  spoke to  9  expressiveness updated from  0.51953125  to  0.51953125
+16 :  6  spoke to  10  expressiveness updated from  0.484375  to  0.4921875
+16  :  AGENT  6  DIED
+18 :  8  spoke to  1  expressiveness updated from  0.515625  to  0.5234375
+18 :  8  spoke to  2  expressiveness updated from  0.48828125  to  0.546875
+17 :  8  spoke to  3  expressiveness updated from  0.48046875  to  0.48046875
+18 :  8  spoke to  4  expressiveness updated from  0.4609375  to  0.4765625
+18 :  8  spoke to  5  expressiveness updated from  0.5078125  to  0.52734375
+17 :  8  spoke to  6  expressiveness updated from  0.4765625  to  0.50390625
+17 :  8  spoke to  7  expressiveness updated from  0.50390625  to  0.51171875
+18 :  8  spoke to  9  expressiveness updated from  0.51953125  to  0.5390625
+17 :  8  spoke to  10  expressiveness updated from  0.4921875  to  0.51171875
+17  :  AGENT  7  DIED
+18  :  AGENT  8  DIED
+18 :  10  spoke to  1  expressiveness updated from  0.5234375  to  0.5234375
+18 :  10  spoke to  2  expressiveness updated from  0.546875  to  0.546875
+18 :  10  spoke to  3  expressiveness updated from  0.48046875  to  0.49609375
+18 :  10  spoke to  4  expressiveness updated from  0.4765625  to  0.4765625
+19 :  10  spoke to  5  expressiveness updated from  0.52734375  to  0.5234375
+19 :  10  spoke to  6  expressiveness updated from  0.50390625  to  0.515625
+19 :  10  spoke to  7  expressiveness updated from  0.51171875  to  0.5078125
+19 :  10  spoke to  8  expressiveness updated from  0.484375  to  0.48828125
+19 :  10  spoke to  9  expressiveness updated from  0.5390625  to  0.53125
+19  :  AGENT  9  DIED
+20 :  2  spoke to  1  expressiveness updated from  0.5234375  to  0.53515625
+19 :  2  spoke to  3  expressiveness updated from  0.49609375  to  0.55078125
+20 :  2  spoke to  4  expressiveness updated from  0.4765625  to  0.515625
+20 :  2  spoke to  5  expressiveness updated from  0.5234375  to  0.515625
+20 :  2  spoke to  6  expressiveness updated from  0.515625  to  0.51953125
+19 :  2  spoke to  7  expressiveness updated from  0.5078125  to  0.51171875
+20 :  2  spoke to  8  expressiveness updated from  0.48828125  to  0.4921875
+20 :  2  spoke to  9  expressiveness updated from  0.53125  to  0.54296875
+20 :  2  spoke to  10  expressiveness updated from  0.51171875  to  0.5234375
+20  :  AGENT  10  DIED
+21 :  2  spoke to  1  expressiveness updated from  0.53515625  to  0.54296875
+20 :  2  spoke to  3  expressiveness updated from  0.55078125  to  0.5390625
+21 :  2  spoke to  4  expressiveness updated from  0.515625  to  0.51171875
+21 :  2  spoke to  5  expressiveness updated from  0.515625  to  0.54296875
+21 :  2  spoke to  6  expressiveness updated from  0.51953125  to  0.51171875
+21 :  2  spoke to  7  expressiveness updated from  0.51171875  to  0.51953125
+21 :  2  spoke to  8  expressiveness updated from  0.4921875  to  0.5078125
+21 :  2  spoke to  9  expressiveness updated from  0.54296875  to  0.53515625
+21 :  2  spoke to  10  expressiveness updated from  0.5234375  to  0.50390625
+21 :  2  spoke to  1  expressiveness updated from  0.54296875  to  0.55859375
+21 :  2  spoke to  3  expressiveness updated from  0.5390625  to  0.53515625
+22 :  2  spoke to  4  expressiveness updated from  0.51171875  to  0.5078125
+22 :  2  spoke to  5  expressiveness updated from  0.54296875  to  0.546875
+22 :  2  spoke to  6  expressiveness updated from  0.51171875  to  0.6015625
+21 :  2  spoke to  7  expressiveness updated from  0.51953125  to  0.515625
+21 :  2  spoke to  8  expressiveness updated from  0.5078125  to  0.51953125
+21 :  2  spoke to  9  expressiveness updated from  0.53515625  to  0.55078125
+22 :  2  spoke to  10  expressiveness updated from  0.50390625  to  0.51171875
+21  :  AGENT  1  DIED
+23 :  3  spoke to  1  expressiveness updated from  0.55859375  to  0.53515625
+22 :  3  spoke to  2  expressiveness updated from  0.546875  to  0.55078125
+22 :  3  spoke to  4  expressiveness updated from  0.5078125  to  0.515625
+22 :  3  spoke to  5  expressiveness updated from  0.546875  to  0.5546875
+23 :  3  spoke to  6  expressiveness updated from  0.6015625  to  0.58203125
+22 :  3  spoke to  7  expressiveness updated from  0.515625  to  0.51171875
+22 :  3  spoke to  8  expressiveness updated from  0.51953125  to  0.51171875
+22 :  3  spoke to  9  expressiveness updated from  0.55078125  to  0.546875
+22 :  3  spoke to  10  expressiveness updated from  0.51171875  to  0.5234375
+22  :  AGENT  2  DIED
+23  :  AGENT  3  DIED
+23 :  4  spoke to  1  expressiveness updated from  0.53515625  to  0.5234375
+23 :  4  spoke to  2  expressiveness updated from  0.55078125  to  0.55078125
+24 :  4  spoke to  3  expressiveness updated from  0.53515625  to  0.55078125
+24 :  4  spoke to  5  expressiveness updated from  0.5546875  to  0.53515625
+23 :  4  spoke to  6  expressiveness updated from  0.58203125  to  0.56640625
+24 :  4  spoke to  7  expressiveness updated from  0.51171875  to  0.59765625
+24 :  4  spoke to  8  expressiveness updated from  0.51171875  to  0.60546875
+23 :  4  spoke to  9  expressiveness updated from  0.546875  to  0.51953125
+24 :  4  spoke to  10  expressiveness updated from  0.5234375  to  0.5078125
+24 :  4  spoke to  1  expressiveness updated from  0.5234375  to  0.5078125
+25 :  4  spoke to  2  expressiveness updated from  0.55078125  to  0.55078125
+25 :  4  spoke to  3  expressiveness updated from  0.55078125  to  0.5625
+25 :  4  spoke to  5  expressiveness updated from  0.53515625  to  0.53125
+24 :  4  spoke to  6  expressiveness updated from  0.56640625  to  0.57421875
+25 :  4  spoke to  7  expressiveness updated from  0.59765625  to  0.58984375
+24 :  4  spoke to  8  expressiveness updated from  0.60546875  to  0.59375
+25 :  4  spoke to  9  expressiveness updated from  0.51953125  to  0.5546875
+25 :  4  spoke to  10  expressiveness updated from  0.5078125  to  0.50390625
+24  :  AGENT  4  DIED
+25  :  AGENT  5  DIED
+25 :  6  spoke to  1  expressiveness updated from  0.5078125  to  0.5234375
+26 :  6  spoke to  2  expressiveness updated from  0.55078125  to  0.57421875
+25 :  6  spoke to  3  expressiveness updated from  0.5625  to  0.55859375
+25 :  6  spoke to  4  expressiveness updated from  0.515625  to  0.53125
+26 :  6  spoke to  5  expressiveness updated from  0.53125  to  0.53125
+25 :  6  spoke to  7  expressiveness updated from  0.58984375  to  0.578125
+25 :  6  spoke to  8  expressiveness updated from  0.59375  to  0.59765625
+25 :  6  spoke to  9  expressiveness updated from  0.5546875  to  0.5390625
+25 :  6  spoke to  10  expressiveness updated from  0.50390625  to  0.50390625
+26 :  6  spoke to  1  expressiveness updated from  0.5234375  to  0.5390625
+26 :  6  spoke to  2  expressiveness updated from  0.57421875  to  0.55859375
+26 :  6  spoke to  3  expressiveness updated from  0.55859375  to  0.546875
+27 :  6  spoke to  4  expressiveness updated from  0.53125  to  0.51953125
+27 :  6  spoke to  5  expressiveness updated from  0.53125  to  0.5234375
+26 :  6  spoke to  7  expressiveness updated from  0.578125  to  0.578125
+26 :  6  spoke to  8  expressiveness updated from  0.59765625  to  0.59765625
+26 :  6  spoke to  9  expressiveness updated from  0.5390625  to  0.546875
+26 :  6  spoke to  10  expressiveness updated from  0.50390625  to  0.56640625
+26  :  AGENT  6  DIED
+27  :  AGENT  7  DIED
+27 :  9  spoke to  1  expressiveness updated from  0.5390625  to  0.55078125
+27 :  9  spoke to  2  expressiveness updated from  0.55859375  to  0.55859375
+27 :  9  spoke to  3  expressiveness updated from  0.546875  to  0.53515625
+28 :  9  spoke to  4  expressiveness updated from  0.51953125  to  0.53515625
+28 :  9  spoke to  5  expressiveness updated from  0.5234375  to  0.52734375
+27 :  9  spoke to  6  expressiveness updated from  0.57421875  to  0.57421875
+28 :  9  spoke to  7  expressiveness updated from  0.578125  to  0.57421875
+27 :  9  spoke to  8  expressiveness updated from  0.59765625  to  0.58203125
+28 :  9  spoke to  10  expressiveness updated from  0.56640625  to  0.55859375
+29 :  8  spoke to  1  expressiveness updated from  0.55078125  to  0.5703125
+28 :  8  spoke to  2  expressiveness updated from  0.55859375  to  0.5859375
+28 :  8  spoke to  3  expressiveness updated from  0.53515625  to  0.546875
+29 :  8  spoke to  4  expressiveness updated from  0.53515625  to  0.55078125
+28 :  8  spoke to  5  expressiveness updated from  0.52734375  to  0.5390625
+29 :  8  spoke to  6  expressiveness updated from  0.57421875  to  0.59375
+29 :  8  spoke to  7  expressiveness updated from  0.57421875  to  0.58203125
+28 :  8  spoke to  9  expressiveness updated from  0.546875  to  0.55859375
+29 :  8  spoke to  10  expressiveness updated from  0.55859375  to  0.56640625
+28  :  AGENT  8  DIED
+30 :  9  spoke to  1  expressiveness updated from  0.5703125  to  0.5703125
+30 :  9  spoke to  2  expressiveness updated from  0.5859375  to  0.57421875
+29 :  9  spoke to  3  expressiveness updated from  0.546875  to  0.57421875
+29 :  9  spoke to  4  expressiveness updated from  0.55078125  to  0.546875
+30 :  9  spoke to  5  expressiveness updated from  0.5390625  to  0.53515625
+29 :  9  spoke to  6  expressiveness updated from  0.59375  to  0.57421875
+30 :  9  spoke to  7  expressiveness updated from  0.58203125  to  0.56640625
+30 :  9  spoke to  8  expressiveness updated from  0.58203125  to  0.578125
+30 :  9  spoke to  10  expressiveness updated from  0.56640625  to  0.57421875
+29  :  AGENT  9  DIED
+31 :  10  spoke to  1  expressiveness updated from  0.5703125  to  0.5859375
+31 :  10  spoke to  2  expressiveness updated from  0.57421875  to  0.55859375
+31 :  10  spoke to  3  expressiveness updated from  0.57421875  to  0.5703125
+31 :  10  spoke to  4  expressiveness updated from  0.546875  to  0.625
+31 :  10  spoke to  5  expressiveness updated from  0.53515625  to  0.578125
+31 :  10  spoke to  6  expressiveness updated from  0.57421875  to  0.57421875
+31 :  10  spoke to  7  expressiveness updated from  0.56640625  to  0.57421875
+31 :  10  spoke to  8  expressiveness updated from  0.578125  to  0.56640625
+31 :  10  spoke to  9  expressiveness updated from  0.55859375  to  0.5546875
+30  :  AGENT  10  DIED
+31  :  AGENT  1  DIED
+32 :  2  spoke to  1  expressiveness updated from  0.5859375  to  0.6015625
+32 :  2  spoke to  3  expressiveness updated from  0.5703125  to  0.546875
+32 :  2  spoke to  4  expressiveness updated from  0.625  to  0.60546875
+32 :  2  spoke to  5  expressiveness updated from  0.578125  to  0.5625
+32 :  2  spoke to  6  expressiveness updated from  0.57421875  to  0.56640625
+32 :  2  spoke to  7  expressiveness updated from  0.57421875  to  0.55078125
+32 :  2  spoke to  8  expressiveness updated from  0.56640625  to  0.58203125
+31 :  2  spoke to  9  expressiveness updated from  0.5546875  to  0.55859375
+32 :  2  spoke to  10  expressiveness updated from  0.57421875  to  0.57421875
+32  :  AGENT  2  DIED
+33 :  3  spoke to  1  expressiveness updated from  0.6015625  to  0.578125
+33 :  3  spoke to  2  expressiveness updated from  0.55859375  to  0.55078125
+33 :  3  spoke to  4  expressiveness updated from  0.60546875  to  0.6015625
+33 :  3  spoke to  5  expressiveness updated from  0.5625  to  0.56640625
+33 :  3  spoke to  6  expressiveness updated from  0.56640625  to  0.5625
+33 :  3  spoke to  7  expressiveness updated from  0.55078125  to  0.625
+33 :  3  spoke to  8  expressiveness updated from  0.58203125  to  0.5546875
+33 :  3  spoke to  9  expressiveness updated from  0.55859375  to  0.55078125
+33 :  3  spoke to  10  expressiveness updated from  0.57421875  to  0.578125
+33  :  AGENT  3  DIED
+34 :  6  spoke to  1  expressiveness updated from  0.578125  to  0.56640625
+34 :  6  spoke to  2  expressiveness updated from  0.55078125  to  0.55078125
+34 :  6  spoke to  3  expressiveness updated from  0.546875  to  0.546875
+34 :  6  spoke to  4  expressiveness updated from  0.6015625  to  0.6015625
+34 :  6  spoke to  5  expressiveness updated from  0.56640625  to  0.58203125
+34 :  6  spoke to  7  expressiveness updated from  0.625  to  0.6015625
+34 :  6  spoke to  8  expressiveness updated from  0.5546875  to  0.5625
+34 :  6  spoke to  9  expressiveness updated from  0.55078125  to  0.5546875
+34 :  6  spoke to  10  expressiveness updated from  0.578125  to  0.58984375
+34 :  6  spoke to  1  expressiveness updated from  0.56640625  to  0.57421875
+34 :  6  spoke to  2  expressiveness updated from  0.55078125  to  0.5625
+34 :  6  spoke to  3  expressiveness updated from  0.546875  to  0.55859375
+34 :  6  spoke to  4  expressiveness updated from  0.6015625  to  0.58203125
+35 :  6  spoke to  5  expressiveness updated from  0.58203125  to  0.5703125
+34 :  6  spoke to  7  expressiveness updated from  0.6015625  to  0.625
+35 :  6  spoke to  8  expressiveness updated from  0.5625  to  0.57421875
+35 :  6  spoke to  9  expressiveness updated from  0.5546875  to  0.578125
+35 :  6  spoke to  10  expressiveness updated from  0.58984375  to  0.5859375
+34  :  AGENT  4  DIED
+35 :  6  spoke to  1  expressiveness updated from  0.57421875  to  0.578125
+35 :  6  spoke to  2  expressiveness updated from  0.5625  to  0.56640625
+35 :  6  spoke to  3  expressiveness updated from  0.55859375  to  0.55078125
+35 :  6  spoke to  4  expressiveness updated from  0.58203125  to  0.578125
+35 :  6  spoke to  5  expressiveness updated from  0.5703125  to  0.59765625
+36 :  6  spoke to  7  expressiveness updated from  0.625  to  0.61328125
+35 :  6  spoke to  8  expressiveness updated from  0.57421875  to  0.56640625
+35 :  6  spoke to  9  expressiveness updated from  0.578125  to  0.56640625
+35 :  6  spoke to  10  expressiveness updated from  0.5859375  to  0.58984375
+35  :  AGENT  5  DIED
+36  :  AGENT  6  DIED
+36 :  9  spoke to  1  expressiveness updated from  0.578125  to  0.5703125
+36 :  9  spoke to  2  expressiveness updated from  0.56640625  to  0.55859375
+36 :  9  spoke to  3  expressiveness updated from  0.55078125  to  0.53125
+37 :  9  spoke to  4  expressiveness updated from  0.578125  to  0.5546875
+37 :  9  spoke to  5  expressiveness updated from  0.59765625  to  0.5859375
+37 :  9  spoke to  6  expressiveness updated from  0.5625  to  0.57421875
+36 :  9  spoke to  7  expressiveness updated from  0.61328125  to  0.59765625
+37 :  9  spoke to  8  expressiveness updated from  0.56640625  to  0.5625
+37 :  9  spoke to  10  expressiveness updated from  0.58984375  to  0.61328125
+37  :  AGENT  7  DIED
+38 :  9  spoke to  1  expressiveness updated from  0.5703125  to  0.56640625
+38 :  9  spoke to  2  expressiveness updated from  0.55859375  to  0.5859375
+37 :  9  spoke to  3  expressiveness updated from  0.53125  to  0.54296875
+38 :  9  spoke to  4  expressiveness updated from  0.5546875  to  0.56640625
+38 :  9  spoke to  5  expressiveness updated from  0.5859375  to  0.5703125
+38 :  9  spoke to  6  expressiveness updated from  0.57421875  to  0.56640625
+38 :  9  spoke to  7  expressiveness updated from  0.59765625  to  0.60546875
+38 :  9  spoke to  8  expressiveness updated from  0.5625  to  0.55859375
+38 :  9  spoke to  10  expressiveness updated from  0.61328125  to  0.61328125
+39 :  8  spoke to  1  expressiveness updated from  0.56640625  to  0.5546875
+38 :  8  spoke to  2  expressiveness updated from  0.5859375  to  0.55859375
+39 :  8  spoke to  3  expressiveness updated from  0.54296875  to  0.5625
+39 :  8  spoke to  4  expressiveness updated from  0.56640625  to  0.56640625
+39 :  8  spoke to  5  expressiveness updated from  0.5703125  to  0.54296875
+38 :  8  spoke to  6  expressiveness updated from  0.56640625  to  0.58203125
+38 :  8  spoke to  7  expressiveness updated from  0.60546875  to  0.59375
+38 :  8  spoke to  9  expressiveness updated from  0.56640625  to  0.5625
+39 :  8  spoke to  10  expressiveness updated from  0.61328125  to  0.61328125
+38  :  AGENT  8  DIED
+39 :  10  spoke to  1  expressiveness updated from  0.5546875  to  0.5546875
+39 :  10  spoke to  2  expressiveness updated from  0.55859375  to  0.55078125
+39 :  10  spoke to  3  expressiveness updated from  0.5625  to  0.5625
+39 :  10  spoke to  4  expressiveness updated from  0.56640625  to  0.5703125
+39 :  10  spoke to  5  expressiveness updated from  0.54296875  to  0.5625
+40 :  10  spoke to  6  expressiveness updated from  0.58203125  to  0.59375
+39 :  10  spoke to  7  expressiveness updated from  0.59375  to  0.59375
+39 :  10  spoke to  8  expressiveness updated from  0.55859375  to  0.5625
+39 :  10  spoke to  9  expressiveness updated from  0.5625  to  0.5703125
+39  :  AGENT  9  DIED
+40 :  2  spoke to  1  expressiveness updated from  0.5546875  to  0.5546875
+40 :  2  spoke to  3  expressiveness updated from  0.5625  to  0.578125
+41 :  2  spoke to  4  expressiveness updated from  0.5703125  to  0.6484375
+40 :  2  spoke to  5  expressiveness updated from  0.5625  to  0.5703125
+41 :  2  spoke to  6  expressiveness updated from  0.59375  to  0.59375
+40 :  2  spoke to  7  expressiveness updated from  0.59375  to  0.56640625
+41 :  2  spoke to  8  expressiveness updated from  0.5625  to  0.5625
+40 :  2  spoke to  9  expressiveness updated from  0.5703125  to  0.56640625
+40 :  2  spoke to  10  expressiveness updated from  0.61328125  to  0.61328125
+40  :  AGENT  10  DIED
+41 :  3  spoke to  1  expressiveness updated from  0.5546875  to  0.5546875
+42 :  3  spoke to  2  expressiveness updated from  0.55078125  to  0.5625
+42 :  3  spoke to  4  expressiveness updated from  0.6484375  to  0.6328125
+42 :  3  spoke to  5  expressiveness updated from  0.5703125  to  0.66015625
+42 :  3  spoke to  6  expressiveness updated from  0.59375  to  0.60546875
+42 :  3  spoke to  7  expressiveness updated from  0.56640625  to  0.5625
+42 :  3  spoke to  8  expressiveness updated from  0.5625  to  0.57421875
+41 :  3  spoke to  9  expressiveness updated from  0.56640625  to  0.57421875
+42 :  3  spoke to  10  expressiveness updated from  0.61328125  to  0.61328125
+41  :  AGENT  1  DIED
+42  :  AGENT  2  DIED
+43 :  4  spoke to  1  expressiveness updated from  0.5546875  to  0.5625
+43 :  4  spoke to  2  expressiveness updated from  0.5625  to  0.58984375
+42 :  4  spoke to  3  expressiveness updated from  0.578125  to  0.58984375
+43 :  4  spoke to  5  expressiveness updated from  0.66015625  to  0.64453125
+43 :  4  spoke to  6  expressiveness updated from  0.60546875  to  0.609375
+42 :  4  spoke to  7  expressiveness updated from  0.5625  to  0.578125
+43 :  4  spoke to  8  expressiveness updated from  0.57421875  to  0.58203125
+42 :  4  spoke to  9  expressiveness updated from  0.57421875  to  0.5859375
+42 :  4  spoke to  10  expressiveness updated from  0.61328125  to  0.6328125
+43 :  4  spoke to  1  expressiveness updated from  0.5625  to  0.578125
+44 :  4  spoke to  2  expressiveness updated from  0.58984375  to  0.58203125
+43 :  4  spoke to  3  expressiveness updated from  0.58984375  to  0.6015625
+43 :  4  spoke to  5  expressiveness updated from  0.64453125  to  0.6484375
+43 :  4  spoke to  6  expressiveness updated from  0.609375  to  0.6171875
+44 :  4  spoke to  7  expressiveness updated from  0.578125  to  0.66796875
+44 :  4  spoke to  8  expressiveness updated from  0.58203125  to  0.65625
+43 :  4  spoke to  9  expressiveness updated from  0.5859375  to  0.59765625
+44 :  4  spoke to  10  expressiveness updated from  0.6328125  to  0.625
+43  :  AGENT  3  DIED
+44 :  7  spoke to  1  expressiveness updated from  0.578125  to  0.5703125
+44 :  7  spoke to  2  expressiveness updated from  0.58203125  to  0.58984375
+45 :  7  spoke to  3  expressiveness updated from  0.6015625  to  0.578125
+44 :  7  spoke to  4  expressiveness updated from  0.6328125  to  0.65625
+45 :  7  spoke to  5  expressiveness updated from  0.6484375  to  0.671875
+44 :  7  spoke to  6  expressiveness updated from  0.6171875  to  0.63671875
+44 :  7  spoke to  8  expressiveness updated from  0.65625  to  0.66796875
+44 :  7  spoke to  9  expressiveness updated from  0.59765625  to  0.59765625
+44 :  7  spoke to  10  expressiveness updated from  0.625  to  0.6328125
+44  :  AGENT  4  DIED
+45  :  AGENT  5  DIED
+46 :  6  spoke to  1  expressiveness updated from  0.5703125  to  0.55859375
+46 :  6  spoke to  2  expressiveness updated from  0.58984375  to  0.578125
+46 :  6  spoke to  3  expressiveness updated from  0.578125  to  0.5703125
+45 :  6  spoke to  4  expressiveness updated from  0.65625  to  0.66015625
+46 :  6  spoke to  5  expressiveness updated from  0.671875  to  0.68359375
+46 :  6  spoke to  7  expressiveness updated from  0.66796875  to  0.65625
+45 :  6  spoke to  8  expressiveness updated from  0.66796875  to  0.65234375
+46 :  6  spoke to  9  expressiveness updated from  0.59765625  to  0.6484375
+46 :  6  spoke to  10  expressiveness updated from  0.6328125  to  0.578125
+46 :  8  spoke to  1  expressiveness updated from  0.55859375  to  0.5625
+47 :  8  spoke to  2  expressiveness updated from  0.578125  to  0.5859375
+46 :  8  spoke to  3  expressiveness updated from  0.5703125  to  0.6015625
+46 :  8  spoke to  4  expressiveness updated from  0.66015625  to  0.65234375
+47 :  8  spoke to  5  expressiveness updated from  0.68359375  to  0.671875
+46 :  8  spoke to  6  expressiveness updated from  0.63671875  to  0.63671875
+46 :  8  spoke to  7  expressiveness updated from  0.65625  to  0.66796875
+47 :  8  spoke to  9  expressiveness updated from  0.6484375  to  0.65234375
+46 :  8  spoke to  10  expressiveness updated from  0.578125  to  0.61328125
+46  :  AGENT  6  DIED
+47 :  8  spoke to  1  expressiveness updated from  0.5625  to  0.65234375
+48 :  8  spoke to  2  expressiveness updated from  0.5859375  to  0.6796875
+47 :  8  spoke to  3  expressiveness updated from  0.6015625  to  0.59765625
+48 :  8  spoke to  4  expressiveness updated from  0.65234375  to  0.640625
+47 :  8  spoke to  5  expressiveness updated from  0.671875  to  0.65625
+47 :  8  spoke to  6  expressiveness updated from  0.63671875  to  0.6171875
+47 :  8  spoke to  7  expressiveness updated from  0.66796875  to  0.671875
+48 :  8  spoke to  9  expressiveness updated from  0.65234375  to  0.64453125
+47 :  8  spoke to  10  expressiveness updated from  0.61328125  to  0.61328125
+47  :  AGENT  7  DIED
+48  :  AGENT  8  DIED
+49 :  10  spoke to  1  expressiveness updated from  0.65234375  to  0.65234375
+49 :  10  spoke to  2  expressiveness updated from  0.6796875  to  0.671875
+49 :  10  spoke to  3  expressiveness updated from  0.59765625  to  0.68359375
+49 :  10  spoke to  4  expressiveness updated from  0.640625  to  0.63671875
+49 :  10  spoke to  5  expressiveness updated from  0.65625  to  0.6484375
+49 :  10  spoke to  6  expressiveness updated from  0.6171875  to  0.60546875
+49 :  10  spoke to  7  expressiveness updated from  0.671875  to  0.6796875
+49 :  10  spoke to  8  expressiveness updated from  0.65234375  to  0.62890625
+49 :  10  spoke to  9  expressiveness updated from  0.64453125  to  0.6484375
+50 :  9  spoke to  1  expressiveness updated from  0.65234375  to  0.640625
+50 :  9  spoke to  2  expressiveness updated from  0.671875  to  0.671875
+50 :  9  spoke to  3  expressiveness updated from  0.68359375  to  0.6796875
+50 :  9  spoke to  4  expressiveness updated from  0.63671875  to  0.66796875
+50 :  9  spoke to  5  expressiveness updated from  0.6484375  to  0.66015625
+50 :  9  spoke to  6  expressiveness updated from  0.60546875  to  0.609375
+50 :  9  spoke to  7  expressiveness updated from  0.6796875  to  0.671875
+50 :  9  spoke to  8  expressiveness updated from  0.62890625  to  0.63671875
+50 :  9  spoke to  10  expressiveness updated from  0.61328125  to  0.6171875
+49  :  AGENT  9  DIED
+50  :  AGENT  10  DIED
+51 :  2  spoke to  1  expressiveness updated from  0.640625  to  0.640625
+51 :  2  spoke to  3  expressiveness updated from  0.6796875  to  0.68359375
+50 :  2  spoke to  4  expressiveness updated from  0.66796875  to  0.6796875
+51 :  2  spoke to  5  expressiveness updated from  0.66015625  to  0.66015625
+51 :  2  spoke to  6  expressiveness updated from  0.609375  to  0.60546875
+51 :  2  spoke to  7  expressiveness updated from  0.671875  to  0.6484375
+51 :  2  spoke to  8  expressiveness updated from  0.63671875  to  0.60546875
+51 :  2  spoke to  9  expressiveness updated from  0.6484375  to  0.63671875
+51 :  2  spoke to  10  expressiveness updated from  0.6171875  to  0.609375
+51  :  AGENT  1  DIED
+52 :  3  spoke to  1  expressiveness updated from  0.640625  to  0.640625
+52 :  3  spoke to  2  expressiveness updated from  0.671875  to  0.67578125
+52 :  3  spoke to  4  expressiveness updated from  0.6796875  to  0.69140625
+52 :  3  spoke to  5  expressiveness updated from  0.66015625  to  0.6640625
+52 :  3  spoke to  6  expressiveness updated from  0.60546875  to  0.7578125
+52 :  3  spoke to  7  expressiveness updated from  0.6484375  to  0.64453125
+52 :  3  spoke to  8  expressiveness updated from  0.60546875  to  0.60546875
+52 :  3  spoke to  9  expressiveness updated from  0.63671875  to  0.65234375
+52 :  3  spoke to  10  expressiveness updated from  0.609375  to  0.625
+52 :  2  spoke to  1  expressiveness updated from  0.640625  to  0.6328125
+53 :  2  spoke to  3  expressiveness updated from  0.68359375  to  0.6796875
+53 :  2  spoke to  4  expressiveness updated from  0.69140625  to  0.69140625
+53 :  2  spoke to  5  expressiveness updated from  0.6640625  to  0.6796875
+53 :  2  spoke to  6  expressiveness updated from  0.7578125  to  0.73828125
+53 :  2  spoke to  7  expressiveness updated from  0.64453125  to  0.6953125
+53 :  2  spoke to  8  expressiveness updated from  0.60546875  to  0.6171875
+53 :  2  spoke to  9  expressiveness updated from  0.65234375  to  0.64453125
+53 :  2  spoke to  10  expressiveness updated from  0.625  to  0.59765625
+52  :  AGENT  2  DIED
+53 :  4  spoke to  1  expressiveness updated from  0.6328125  to  0.65234375
+54 :  4  spoke to  2  expressiveness updated from  0.67578125  to  0.65234375
+53 :  4  spoke to  3  expressiveness updated from  0.6796875  to  0.6875
+54 :  4  spoke to  5  expressiveness updated from  0.6796875  to  0.68359375
+53 :  4  spoke to  6  expressiveness updated from  0.73828125  to  0.72265625
+54 :  4  spoke to  7  expressiveness updated from  0.6953125  to  0.71484375
+53 :  4  spoke to  8  expressiveness updated from  0.6171875  to  0.62890625
+53 :  4  spoke to  9  expressiveness updated from  0.64453125  to  0.63671875
+53 :  4  spoke to  10  expressiveness updated from  0.59765625  to  0.6015625
+53  :  AGENT  3  DIED
+55 :  4  spoke to  1  expressiveness updated from  0.65234375  to  0.65625
+55 :  4  spoke to  2  expressiveness updated from  0.65234375  to  0.66796875
+55 :  4  spoke to  3  expressiveness updated from  0.6875  to  0.6640625
+54 :  4  spoke to  5  expressiveness updated from  0.68359375  to  0.6796875
+55 :  4  spoke to  6  expressiveness updated from  0.72265625  to  0.68359375
+55 :  4  spoke to  7  expressiveness updated from  0.71484375  to  0.72265625
+55 :  4  spoke to  8  expressiveness updated from  0.62890625  to  0.74609375
+55 :  4  spoke to  9  expressiveness updated from  0.63671875  to  0.7578125
+55 :  4  spoke to  10  expressiveness updated from  0.6015625  to  0.6015625
+54  :  AGENT  4  DIED
+56 :  6  spoke to  1  expressiveness updated from  0.65625  to  0.65625
+55 :  6  spoke to  2  expressiveness updated from  0.66796875  to  0.68359375
+55 :  6  spoke to  3  expressiveness updated from  0.6640625  to  0.66015625
+56 :  6  spoke to  4  expressiveness updated from  0.69140625  to  0.6796875
+55 :  6  spoke to  5  expressiveness updated from  0.6796875  to  0.65625
+55 :  6  spoke to  7  expressiveness updated from  0.72265625  to  0.69921875
+56 :  6  spoke to  8  expressiveness updated from  0.74609375  to  0.72265625
+55 :  6  spoke to  9  expressiveness updated from  0.7578125  to  0.73046875
+55 :  6  spoke to  10  expressiveness updated from  0.6015625  to  0.59375
+55  :  AGENT  5  DIED
+56  :  AGENT  6  DIED
+57 :  9  spoke to  1  expressiveness updated from  0.65625  to  0.66796875
+57 :  9  spoke to  2  expressiveness updated from  0.68359375  to  0.66015625
+57 :  9  spoke to  3  expressiveness updated from  0.66015625  to  0.66015625
+57 :  9  spoke to  4  expressiveness updated from  0.6796875  to  0.671875
+57 :  9  spoke to  5  expressiveness updated from  0.65625  to  0.671875
+57 :  9  spoke to  6  expressiveness updated from  0.68359375  to  0.68359375
+57 :  9  spoke to  7  expressiveness updated from  0.69921875  to  0.69921875
+56 :  9  spoke to  8  expressiveness updated from  0.72265625  to  0.7265625
+57 :  9  spoke to  10  expressiveness updated from  0.59375  to  0.6640625
+57  :  AGENT  7  DIED
+57 :  8  spoke to  1  expressiveness updated from  0.66796875  to  0.6796875
+58 :  8  spoke to  2  expressiveness updated from  0.66015625  to  0.59375
+58 :  8  spoke to  3  expressiveness updated from  0.66015625  to  0.67578125
+58 :  8  spoke to  4  expressiveness updated from  0.671875  to  0.6484375
+58 :  8  spoke to  5  expressiveness updated from  0.671875  to  0.6484375
+58 :  8  spoke to  6  expressiveness updated from  0.68359375  to  0.6484375
+58 :  8  spoke to  7  expressiveness updated from  0.69921875  to  0.66796875
+58 :  8  spoke to  9  expressiveness updated from  0.73046875  to  0.7265625
+58 :  8  spoke to  10  expressiveness updated from  0.6640625  to  0.6953125
+58  :  AGENT  8  DIED
+59 :  10  spoke to  1  expressiveness updated from  0.6796875  to  0.68359375
+58 :  10  spoke to  2  expressiveness updated from  0.59375  to  0.6171875
+58 :  10  spoke to  3  expressiveness updated from  0.67578125  to  0.67578125
+59 :  10  spoke to  4  expressiveness updated from  0.6484375  to  0.6484375
+59 :  10  spoke to  5  expressiveness updated from  0.6484375  to  0.63671875
+58 :  10  spoke to  6  expressiveness updated from  0.6484375  to  0.64453125
+59 :  10  spoke to  7  expressiveness updated from  0.66796875  to  0.66015625
+59 :  10  spoke to  8  expressiveness updated from  0.7265625  to  0.6796875
+59 :  10  spoke to  9  expressiveness updated from  0.7265625  to  0.71875
+59 :  10  spoke to  1  expressiveness updated from  0.68359375  to  0.67578125
+59 :  10  spoke to  2  expressiveness updated from  0.6171875  to  0.6328125
+59 :  10  spoke to  3  expressiveness updated from  0.67578125  to  0.66015625
+60 :  10  spoke to  4  expressiveness updated from  0.6484375  to  0.734375
+60 :  10  spoke to  5  expressiveness updated from  0.63671875  to  0.65234375
+59 :  10  spoke to  6  expressiveness updated from  0.64453125  to  0.6640625
+60 :  10  spoke to  7  expressiveness updated from  0.66015625  to  0.63671875
+59 :  10  spoke to  8  expressiveness updated from  0.6796875  to  0.6484375
+59 :  10  spoke to  9  expressiveness updated from  0.71875  to  0.71484375
+59  :  AGENT  9  DIED
+60  :  AGENT  10  DIED
+61 :  2  spoke to  1  expressiveness updated from  0.67578125  to  0.6796875
+60 :  2  spoke to  3  expressiveness updated from  0.66015625  to  0.65625
+61 :  2  spoke to  4  expressiveness updated from  0.734375  to  0.72265625
+60 :  2  spoke to  5  expressiveness updated from  0.65234375  to  0.6484375
+61 :  2  spoke to  6  expressiveness updated from  0.6640625  to  0.67578125
+61 :  2  spoke to  7  expressiveness updated from  0.63671875  to  0.62890625
+60 :  2  spoke to  8  expressiveness updated from  0.6484375  to  0.65625
+61 :  2  spoke to  9  expressiveness updated from  0.71484375  to  0.671875
+61 :  2  spoke to  10  expressiveness updated from  0.6953125  to  0.66015625
+61  :  AGENT  1  DIED
+62 :  3  spoke to  1  expressiveness updated from  0.6796875  to  0.65234375
+62 :  3  spoke to  2  expressiveness updated from  0.6328125  to  0.64453125
+62 :  3  spoke to  4  expressiveness updated from  0.72265625  to  0.71484375
+62 :  3  spoke to  5  expressiveness updated from  0.6484375  to  0.6953125
+62 :  3  spoke to  6  expressiveness updated from  0.67578125  to  0.71484375
+62 :  3  spoke to  7  expressiveness updated from  0.62890625  to  0.6328125
+61 :  3  spoke to  8  expressiveness updated from  0.65625  to  0.6484375
+62 :  3  spoke to  9  expressiveness updated from  0.671875  to  0.63671875
+62 :  3  spoke to  10  expressiveness updated from  0.66015625  to  0.63671875
+62 :  5  spoke to  1  expressiveness updated from  0.65234375  to  0.63671875
+62 :  5  spoke to  2  expressiveness updated from  0.64453125  to  0.640625
+62 :  5  spoke to  3  expressiveness updated from  0.65625  to  0.6640625
+62 :  5  spoke to  4  expressiveness updated from  0.71484375  to  0.703125
+62 :  5  spoke to  6  expressiveness updated from  0.71484375  to  0.70703125
+63 :  5  spoke to  7  expressiveness updated from  0.6328125  to  0.6953125
+63 :  5  spoke to  8  expressiveness updated from  0.6484375  to  0.68359375
+62 :  5  spoke to  9  expressiveness updated from  0.63671875  to  0.6484375
+62 :  5  spoke to  10  expressiveness updated from  0.63671875  to  0.6328125
+62  :  AGENT  2  DIED
+64 :  3  spoke to  1  expressiveness updated from  0.63671875  to  0.64453125
+64 :  3  spoke to  2  expressiveness updated from  0.640625  to  0.6015625
+64 :  3  spoke to  4  expressiveness updated from  0.703125  to  0.703125
+63 :  3  spoke to  5  expressiveness updated from  0.6953125  to  0.69140625
+64 :  3  spoke to  6  expressiveness updated from  0.70703125  to  0.6953125
+64 :  3  spoke to  7  expressiveness updated from  0.6953125  to  0.69921875
+64 :  3  spoke to  8  expressiveness updated from  0.68359375  to  0.6796875
+64 :  3  spoke to  9  expressiveness updated from  0.6484375  to  0.66015625
+64 :  3  spoke to  10  expressiveness updated from  0.6328125  to  0.640625
+63  :  AGENT  3  DIED
+65 :  4  spoke to  1  expressiveness updated from  0.64453125  to  0.640625
+65 :  4  spoke to  2  expressiveness updated from  0.6015625  to  0.62890625
+65 :  4  spoke to  3  expressiveness updated from  0.6640625  to  0.671875
+65 :  4  spoke to  5  expressiveness updated from  0.69140625  to  0.69921875
+65 :  4  spoke to  6  expressiveness updated from  0.6953125  to  0.703125
+65 :  4  spoke to  7  expressiveness updated from  0.69921875  to  0.703125
+65 :  4  spoke to  8  expressiveness updated from  0.6796875  to  0.68359375
+65 :  4  spoke to  9  expressiveness updated from  0.66015625  to  0.69921875
+65 :  4  spoke to  10  expressiveness updated from  0.640625  to  0.640625
+64  :  AGENT  4  DIED
+65  :  AGENT  5  DIED
+66 :  8  spoke to  1  expressiveness updated from  0.640625  to  0.6484375
+66 :  8  spoke to  2  expressiveness updated from  0.62890625  to  0.62109375
+66 :  8  spoke to  3  expressiveness updated from  0.671875  to  0.66796875
+66 :  8  spoke to  4  expressiveness updated from  0.703125  to  0.67578125
+66 :  8  spoke to  5  expressiveness updated from  0.69921875  to  0.66796875
+66 :  8  spoke to  6  expressiveness updated from  0.703125  to  0.7109375
+66 :  8  spoke to  7  expressiveness updated from  0.703125  to  0.703125
+66 :  8  spoke to  9  expressiveness updated from  0.69921875  to  0.69921875
+66 :  8  spoke to  10  expressiveness updated from  0.640625  to  0.71484375
+66  :  AGENT  6  DIED
+67 :  7  spoke to  1  expressiveness updated from  0.6484375  to  0.765625
+67 :  7  spoke to  2  expressiveness updated from  0.62109375  to  0.63671875
+67 :  7  spoke to  3  expressiveness updated from  0.66796875  to  0.69140625
+67 :  7  spoke to  4  expressiveness updated from  0.67578125  to  0.71875
+66 :  7  spoke to  5  expressiveness updated from  0.66796875  to  0.6953125
+67 :  7  spoke to  6  expressiveness updated from  0.7109375  to  0.73046875
+67 :  7  spoke to  8  expressiveness updated from  0.68359375  to  0.68359375
+67 :  7  spoke to  9  expressiveness updated from  0.69921875  to  0.69140625
+67 :  7  spoke to  10  expressiveness updated from  0.71484375  to  0.71484375
+67 :  8  spoke to  1  expressiveness updated from  0.765625  to  0.7421875
+68 :  8  spoke to  2  expressiveness updated from  0.63671875  to  0.6796875
+67 :  8  spoke to  3  expressiveness updated from  0.69140625  to  0.69140625
+67 :  8  spoke to  4  expressiveness updated from  0.71875  to  0.71484375
+67 :  8  spoke to  5  expressiveness updated from  0.6953125  to  0.66796875
+67 :  8  spoke to  6  expressiveness updated from  0.73046875  to  0.72265625
+67 :  8  spoke to  7  expressiveness updated from  0.703125  to  0.70703125
+67 :  8  spoke to  9  expressiveness updated from  0.69140625  to  0.70703125
+67 :  8  spoke to  10  expressiveness updated from  0.71484375  to  0.71875
+67  :  AGENT  7  DIED
+68 :  1  spoke to  2  expressiveness updated from  0.6796875  to  0.6875
+69 :  1  spoke to  3  expressiveness updated from  0.69140625  to  0.71875
+69 :  1  spoke to  4  expressiveness updated from  0.71484375  to  0.703125
+68 :  1  spoke to  5  expressiveness updated from  0.66796875  to  0.68359375
+68 :  1  spoke to  6  expressiveness updated from  0.72265625  to  0.71484375
+69 :  1  spoke to  7  expressiveness updated from  0.70703125  to  0.7109375
+68 :  1  spoke to  8  expressiveness updated from  0.68359375  to  0.68359375
+69 :  1  spoke to  9  expressiveness updated from  0.70703125  to  0.69921875
+69 :  1  spoke to  10  expressiveness updated from  0.71875  to  0.71484375
+68  :  AGENT  8  DIED
+69 :  1  spoke to  2  expressiveness updated from  0.6875  to  0.70703125
+70 :  1  spoke to  3  expressiveness updated from  0.71875  to  0.7265625
+70 :  1  spoke to  4  expressiveness updated from  0.703125  to  0.6796875
+70 :  1  spoke to  5  expressiveness updated from  0.68359375  to  0.67578125
+70 :  1  spoke to  6  expressiveness updated from  0.71484375  to  0.71484375
+70 :  1  spoke to  7  expressiveness updated from  0.7109375  to  0.69921875
+70 :  1  spoke to  8  expressiveness updated from  0.68359375  to  0.671875
+69 :  1  spoke to  9  expressiveness updated from  0.69921875  to  0.71484375
+70 :  1  spoke to  10  expressiveness updated from  0.71484375  to  0.73046875
+69  :  AGENT  9  DIED
+70  :  AGENT  10  DIED
+71 :  2  spoke to  1  expressiveness updated from  0.7421875  to  0.73828125
+71 :  2  spoke to  3  expressiveness updated from  0.7265625  to  0.71875
+71 :  2  spoke to  4  expressiveness updated from  0.6796875  to  0.67578125
+71 :  2  spoke to  5  expressiveness updated from  0.67578125  to  0.73046875
+71 :  2  spoke to  6  expressiveness updated from  0.71484375  to  0.70703125
+71 :  2  spoke to  7  expressiveness updated from  0.69921875  to  0.66796875
+71 :  2  spoke to  8  expressiveness updated from  0.671875  to  0.67578125
+71 :  2  spoke to  9  expressiveness updated from  0.71484375  to  0.68359375
+71 :  2  spoke to  10  expressiveness updated from  0.73046875  to  0.74609375
+71  :  AGENT  1  DIED
+72 :  3  spoke to  1  expressiveness updated from  0.73828125  to  0.72265625
+72 :  3  spoke to  2  expressiveness updated from  0.70703125  to  0.70703125
+72 :  3  spoke to  4  expressiveness updated from  0.67578125  to  0.671875
+71 :  3  spoke to  5  expressiveness updated from  0.73046875  to  0.734375
+72 :  3  spoke to  6  expressiveness updated from  0.70703125  to  0.6875
+71 :  3  spoke to  7  expressiveness updated from  0.66796875  to  0.67578125
+71 :  3  spoke to  8  expressiveness updated from  0.67578125  to  0.6640625
+72 :  3  spoke to  9  expressiveness updated from  0.68359375  to  0.6640625
+72 :  3  spoke to  10  expressiveness updated from  0.74609375  to  0.7265625
+72  :  AGENT  2  DIED
+73 :  3  spoke to  1  expressiveness updated from  0.72265625  to  0.71484375
+73 :  3  spoke to  2  expressiveness updated from  0.70703125  to  0.6953125
+73 :  3  spoke to  4  expressiveness updated from  0.671875  to  0.68359375
+73 :  3  spoke to  5  expressiveness updated from  0.734375  to  0.734375
+73 :  3  spoke to  6  expressiveness updated from  0.6875  to  0.6953125
+73 :  3  spoke to  7  expressiveness updated from  0.67578125  to  0.6875
+73 :  3  spoke to  8  expressiveness updated from  0.6640625  to  0.66796875
+73 :  3  spoke to  9  expressiveness updated from  0.6640625  to  0.67578125
+73 :  3  spoke to  10  expressiveness updated from  0.7265625  to  0.7109375
+74 :  4  spoke to  1  expressiveness updated from  0.71484375  to  0.7265625
+74 :  4  spoke to  2  expressiveness updated from  0.6953125  to  0.6796875
+73 :  4  spoke to  3  expressiveness updated from  0.71875  to  0.72265625
+73 :  4  spoke to  5  expressiveness updated from  0.734375  to  0.7265625
+73 :  4  spoke to  6  expressiveness updated from  0.6953125  to  0.70703125
+73 :  4  spoke to  7  expressiveness updated from  0.6875  to  0.703125
+74 :  4  spoke to  8  expressiveness updated from  0.66796875  to  0.64453125
+73 :  4  spoke to  9  expressiveness updated from  0.67578125  to  0.69140625
+73 :  4  spoke to  10  expressiveness updated from  0.7109375  to  0.73828125
+73  :  AGENT  3  DIED
+74 :  4  spoke to  1  expressiveness updated from  0.7265625  to  0.70703125
+74 :  4  spoke to  2  expressiveness updated from  0.6796875  to  0.68359375
+75 :  4  spoke to  3  expressiveness updated from  0.72265625  to  0.7109375
+75 :  4  spoke to  5  expressiveness updated from  0.7265625  to  0.7109375
+75 :  4  spoke to  6  expressiveness updated from  0.70703125  to  0.70703125
+75 :  4  spoke to  7  expressiveness updated from  0.703125  to  0.70703125
+75 :  4  spoke to  8  expressiveness updated from  0.64453125  to  0.66796875
+75 :  4  spoke to  9  expressiveness updated from  0.69140625  to  0.7109375
+75 :  4  spoke to  10  expressiveness updated from  0.73828125  to  0.7421875
+74  :  AGENT  4  DIED
+76 :  5  spoke to  1  expressiveness updated from  0.70703125  to  0.71484375
+76 :  5  spoke to  2  expressiveness updated from  0.68359375  to  0.6875
+76 :  5  spoke to  3  expressiveness updated from  0.7109375  to  0.734375
+76 :  5  spoke to  4  expressiveness updated from  0.68359375  to  0.67578125
+76 :  5  spoke to  6  expressiveness updated from  0.70703125  to  0.703125
+76 :  5  spoke to  7  expressiveness updated from  0.70703125  to  0.703125
+76 :  5  spoke to  8  expressiveness updated from  0.66796875  to  0.66796875
+76 :  5  spoke to  9  expressiveness updated from  0.7109375  to  0.72265625
+76 :  5  spoke to  10  expressiveness updated from  0.7421875  to  0.640625
+75  :  AGENT  5  DIED
+76  :  AGENT  6  DIED
+76 :  7  spoke to  1  expressiveness updated from  0.71484375  to  0.703125
+77 :  7  spoke to  2  expressiveness updated from  0.6875  to  0.6953125
+77 :  7  spoke to  3  expressiveness updated from  0.734375  to  0.703125
+76 :  7  spoke to  4  expressiveness updated from  0.67578125  to  0.64453125
+77 :  7  spoke to  5  expressiveness updated from  0.7109375  to  0.69921875
+77 :  7  spoke to  6  expressiveness updated from  0.703125  to  0.703125
+77 :  7  spoke to  8  expressiveness updated from  0.66796875  to  0.6796875
+76 :  7  spoke to  9  expressiveness updated from  0.72265625  to  0.72265625
+77 :  7  spoke to  10  expressiveness updated from  0.640625  to  0.66015625
+77  :  AGENT  7  DIED
+78 :  8  spoke to  1  expressiveness updated from  0.703125  to  0.69140625
+78 :  8  spoke to  2  expressiveness updated from  0.6953125  to  0.67578125
+78 :  8  spoke to  3  expressiveness updated from  0.703125  to  0.69921875
+78 :  8  spoke to  4  expressiveness updated from  0.64453125  to  0.63671875
+78 :  8  spoke to  5  expressiveness updated from  0.69921875  to  0.7265625
+78 :  8  spoke to  6  expressiveness updated from  0.703125  to  0.73046875
+78 :  8  spoke to  7  expressiveness updated from  0.703125  to  0.703125
+78 :  8  spoke to  9  expressiveness updated from  0.72265625  to  0.70703125
+78 :  8  spoke to  10  expressiveness updated from  0.66015625  to  0.6640625
+78 :  9  spoke to  1  expressiveness updated from  0.69140625  to  0.68359375
+78 :  9  spoke to  2  expressiveness updated from  0.67578125  to  0.66796875
+78 :  9  spoke to  3  expressiveness updated from  0.69921875  to  0.6953125
+78 :  9  spoke to  4  expressiveness updated from  0.63671875  to  0.65234375
+79 :  9  spoke to  5  expressiveness updated from  0.7265625  to  0.73828125
+78 :  9  spoke to  6  expressiveness updated from  0.73046875  to  0.71875
+78 :  9  spoke to  7  expressiveness updated from  0.703125  to  0.6796875
+78 :  9  spoke to  8  expressiveness updated from  0.6796875  to  0.6875
+78 :  9  spoke to  10  expressiveness updated from  0.6640625  to  0.66796875
+78  :  AGENT  8  DIED
+80 :  9  spoke to  1  expressiveness updated from  0.68359375  to  0.671875
+80 :  9  spoke to  2  expressiveness updated from  0.66796875  to  0.65625
+80 :  9  spoke to  3  expressiveness updated from  0.6953125  to  0.62890625
+80 :  9  spoke to  4  expressiveness updated from  0.65234375  to  0.63671875
+80 :  9  spoke to  5  expressiveness updated from  0.73828125  to  0.7265625
+80 :  9  spoke to  6  expressiveness updated from  0.71875  to  0.6953125
+80 :  9  spoke to  7  expressiveness updated from  0.6796875  to  0.671875
+80 :  9  spoke to  8  expressiveness updated from  0.6875  to  0.69921875
+80 :  9  spoke to  10  expressiveness updated from  0.66796875  to  0.66796875
+79  :  AGENT  9  DIED
+81 :  2  spoke to  1  expressiveness updated from  0.671875  to  0.6640625
+81 :  2  spoke to  3  expressiveness updated from  0.62890625  to  0.63671875
+81 :  2  spoke to  4  expressiveness updated from  0.63671875  to  0.63671875
+81 :  2  spoke to  5  expressiveness updated from  0.7265625  to  0.55078125
+81 :  2  spoke to  6  expressiveness updated from  0.6953125  to  0.67578125
+81 :  2  spoke to  7  expressiveness updated from  0.671875  to  0.6796875
+81 :  2  spoke to  8  expressiveness updated from  0.69921875  to  0.6953125
+81 :  2  spoke to  9  expressiveness updated from  0.70703125  to  0.7421875
+80 :  2  spoke to  10  expressiveness updated from  0.66796875  to  0.65625
+80  :  AGENT  10  DIED
+81  :  AGENT  1  DIED
+82 :  3  spoke to  1  expressiveness updated from  0.6640625  to  0.671875
+82 :  3  spoke to  2  expressiveness updated from  0.65625  to  0.65234375
+81 :  3  spoke to  4  expressiveness updated from  0.63671875  to  0.63671875
+82 :  3  spoke to  5  expressiveness updated from  0.55078125  to  0.56640625
+82 :  3  spoke to  6  expressiveness updated from  0.67578125  to  0.53125
+82 :  3  spoke to  7  expressiveness updated from  0.6796875  to  0.68359375
+81 :  3  spoke to  8  expressiveness updated from  0.6953125  to  0.6953125
+82 :  3  spoke to  9  expressiveness updated from  0.7421875  to  0.70703125
+81 :  3  spoke to  10  expressiveness updated from  0.65625  to  0.640625
+82 :  5  spoke to  1  expressiveness updated from  0.671875  to  0.6796875
+82 :  5  spoke to  2  expressiveness updated from  0.65234375  to  0.640625
+82 :  5  spoke to  3  expressiveness updated from  0.63671875  to  0.62890625
+83 :  5  spoke to  4  expressiveness updated from  0.63671875  to  0.625
+82 :  5  spoke to  6  expressiveness updated from  0.53125  to  0.5546875
+82 :  5  spoke to  7  expressiveness updated from  0.68359375  to  0.6875
+83 :  5  spoke to  8  expressiveness updated from  0.6953125  to  0.67578125
+82 :  5  spoke to  9  expressiveness updated from  0.70703125  to  0.66015625
+83 :  5  spoke to  10  expressiveness updated from  0.640625  to  0.62109375
+82  :  AGENT  2  DIED
+83 :  6  spoke to  1  expressiveness updated from  0.6796875  to  0.73046875
+84 :  6  spoke to  2  expressiveness updated from  0.640625  to  0.66796875
+83 :  6  spoke to  3  expressiveness updated from  0.62890625  to  0.61328125
+83 :  6  spoke to  4  expressiveness updated from  0.625  to  0.625
+83 :  6  spoke to  5  expressiveness updated from  0.56640625  to  0.56640625
+83 :  6  spoke to  7  expressiveness updated from  0.6875  to  0.5703125
+84 :  6  spoke to  8  expressiveness updated from  0.67578125  to  0.5859375
+83 :  6  spoke to  9  expressiveness updated from  0.66015625  to  0.6875
+83 :  6  spoke to  10  expressiveness updated from  0.62109375  to  0.64453125
+83  :  AGENT  3  DIED
+84 :  4  spoke to  1  expressiveness updated from  0.73046875  to  0.734375
+85 :  4  spoke to  2  expressiveness updated from  0.66796875  to  0.7109375
+85 :  4  spoke to  3  expressiveness updated from  0.61328125  to  0.66796875
+84 :  4  spoke to  5  expressiveness updated from  0.56640625  to  0.5703125
+85 :  4  spoke to  6  expressiveness updated from  0.5546875  to  0.5546875
+84 :  4  spoke to  7  expressiveness updated from  0.5703125  to  0.5703125
+84 :  4  spoke to  8  expressiveness updated from  0.5859375  to  0.5859375
+84 :  4  spoke to  9  expressiveness updated from  0.6875  to  0.6953125
+84 :  4  spoke to  10  expressiveness updated from  0.64453125  to  0.64453125
+84  :  AGENT  4  DIED
+85  :  AGENT  5  DIED
+86 :  8  spoke to  1  expressiveness updated from  0.734375  to  0.7421875
+86 :  8  spoke to  2  expressiveness updated from  0.7109375  to  0.7109375
+86 :  8  spoke to  3  expressiveness updated from  0.66796875  to  0.703125
+86 :  8  spoke to  4  expressiveness updated from  0.625  to  0.6796875
+86 :  8  spoke to  5  expressiveness updated from  0.5703125  to  0.625
+86 :  8  spoke to  6  expressiveness updated from  0.5546875  to  0.546875
+86 :  8  spoke to  7  expressiveness updated from  0.5703125  to  0.5625
+86 :  8  spoke to  9  expressiveness updated from  0.6953125  to  0.51953125
+85 :  8  spoke to  10  expressiveness updated from  0.64453125  to  0.66015625
+86 :  6  spoke to  1  expressiveness updated from  0.7421875  to  0.71875
+87 :  6  spoke to  2  expressiveness updated from  0.7109375  to  0.6953125
+87 :  6  spoke to  3  expressiveness updated from  0.703125  to  0.71484375
+86 :  6  spoke to  4  expressiveness updated from  0.6796875  to  0.68359375
+86 :  6  spoke to  5  expressiveness updated from  0.625  to  0.671875
+87 :  6  spoke to  7  expressiveness updated from  0.5625  to  0.5703125
+87 :  6  spoke to  8  expressiveness updated from  0.5859375  to  0.5703125
+87 :  6  spoke to  9  expressiveness updated from  0.51953125  to  0.54296875
+87 :  6  spoke to  10  expressiveness updated from  0.66015625  to  0.53515625
+86  :  AGENT  6  DIED
+88 :  10  spoke to  1  expressiveness updated from  0.71875  to  0.578125
+88 :  10  spoke to  2  expressiveness updated from  0.6953125  to  0.52734375
+87 :  10  spoke to  3  expressiveness updated from  0.71484375  to  0.69140625
+87 :  10  spoke to  4  expressiveness updated from  0.68359375  to  0.6796875
+87 :  10  spoke to  5  expressiveness updated from  0.671875  to  0.6875
+87 :  10  spoke to  6  expressiveness updated from  0.546875  to  0.65234375
+87 :  10  spoke to  7  expressiveness updated from  0.5703125  to  0.57421875
+88 :  10  spoke to  8  expressiveness updated from  0.5703125  to  0.56640625
+87 :  10  spoke to  9  expressiveness updated from  0.54296875  to  0.55078125
+87  :  AGENT  7  DIED
+88  :  AGENT  8  DIED
+89 :  9  spoke to  1  expressiveness updated from  0.578125  to  0.56640625
+89 :  9  spoke to  2  expressiveness updated from  0.52734375  to  0.54296875
+88 :  9  spoke to  3  expressiveness updated from  0.69140625  to  0.671875
+88 :  9  spoke to  4  expressiveness updated from  0.6796875  to  0.6640625
+88 :  9  spoke to  5  expressiveness updated from  0.6875  to  0.6796875
+89 :  9  spoke to  6  expressiveness updated from  0.65234375  to  0.703125
+88 :  9  spoke to  7  expressiveness updated from  0.57421875  to  0.6796875
+89 :  9  spoke to  8  expressiveness updated from  0.56640625  to  0.609375
+88 :  9  spoke to  10  expressiveness updated from  0.53515625  to  0.54296875
+89 :  1  spoke to  2  expressiveness updated from  0.54296875  to  0.5546875
+90 :  1  spoke to  3  expressiveness updated from  0.671875  to  0.5390625
+89 :  1  spoke to  4  expressiveness updated from  0.6640625  to  0.65625
+90 :  1  spoke to  5  expressiveness updated from  0.6796875  to  0.6875
+89 :  1  spoke to  6  expressiveness updated from  0.703125  to  0.75
+89 :  1  spoke to  7  expressiveness updated from  0.6796875  to  0.71484375
+89 :  1  spoke to  8  expressiveness updated from  0.609375  to  0.609375
+89 :  1  spoke to  9  expressiveness updated from  0.55078125  to  0.57421875
+89 :  1  spoke to  10  expressiveness updated from  0.54296875  to  0.55859375
+89  :  AGENT  9  DIED
+91 :  2  spoke to  1  expressiveness updated from  0.56640625  to  0.5546875
+91 :  2  spoke to  3  expressiveness updated from  0.5390625  to  0.54296875
+90 :  2  spoke to  4  expressiveness updated from  0.65625  to  0.5625
+91 :  2  spoke to  5  expressiveness updated from  0.6875  to  0.52734375
+91 :  2  spoke to  6  expressiveness updated from  0.75  to  0.734375
+91 :  2  spoke to  7  expressiveness updated from  0.71484375  to  0.7265625
+91 :  2  spoke to  8  expressiveness updated from  0.609375  to  0.62109375
+90 :  2  spoke to  9  expressiveness updated from  0.57421875  to  0.66015625
+90 :  2  spoke to  10  expressiveness updated from  0.55859375  to  0.5625
+92 :  1  spoke to  2  expressiveness updated from  0.5546875  to  0.55859375
+91 :  1  spoke to  3  expressiveness updated from  0.54296875  to  0.5390625
+92 :  1  spoke to  4  expressiveness updated from  0.5625  to  0.55078125
+91 :  1  spoke to  5  expressiveness updated from  0.52734375  to  0.5390625
+91 :  1  spoke to  6  expressiveness updated from  0.734375  to  0.734375
+91 :  1  spoke to  7  expressiveness updated from  0.7265625  to  0.71875
+91 :  1  spoke to  8  expressiveness updated from  0.62109375  to  0.6171875
+91 :  1  spoke to  9  expressiveness updated from  0.66015625  to  0.69921875
+91 :  1  spoke to  10  expressiveness updated from  0.5625  to  0.5625
+93 :  3  spoke to  1  expressiveness updated from  0.5546875  to  0.55859375
+93 :  3  spoke to  2  expressiveness updated from  0.55859375  to  0.55859375
+93 :  3  spoke to  4  expressiveness updated from  0.55078125  to  0.5625
+92 :  3  spoke to  5  expressiveness updated from  0.5390625  to  0.546875
+92 :  3  spoke to  6  expressiveness updated from  0.734375  to  0.52734375
+93 :  3  spoke to  7  expressiveness updated from  0.71875  to  0.5625
+93 :  3  spoke to  8  expressiveness updated from  0.6171875  to  0.59765625
+92 :  3  spoke to  9  expressiveness updated from  0.69921875  to  0.7265625
+92 :  3  spoke to  10  expressiveness updated from  0.5625  to  0.55859375
+94 :  4  spoke to  1  expressiveness updated from  0.55859375  to  0.56640625
+93 :  4  spoke to  2  expressiveness updated from  0.55859375  to  0.5625
+93 :  4  spoke to  3  expressiveness updated from  0.5390625  to  0.5390625
+93 :  4  spoke to  5  expressiveness updated from  0.546875  to  0.55078125
+93 :  4  spoke to  6  expressiveness updated from  0.52734375  to  0.53515625
+93 :  4  spoke to  7  expressiveness updated from  0.5625  to  0.546875
+94 :  4  spoke to  8  expressiveness updated from  0.59765625  to  0.5546875
+93 :  4  spoke to  9  expressiveness updated from  0.7265625  to  0.71484375
+93 :  4  spoke to  10  expressiveness updated from  0.55859375  to  0.5546875
+95 :  1  spoke to  2  expressiveness updated from  0.5625  to  0.5546875
+94 :  1  spoke to  3  expressiveness updated from  0.5390625  to  0.5390625
+95 :  1  spoke to  4  expressiveness updated from  0.5625  to  0.5546875
+94 :  1  spoke to  5  expressiveness updated from  0.55078125  to  0.5546875
+94 :  1  spoke to  6  expressiveness updated from  0.53515625  to  0.54296875
+95 :  1  spoke to  7  expressiveness updated from  0.546875  to  0.54296875
+94 :  1  spoke to  8  expressiveness updated from  0.5546875  to  0.5546875
+94 :  1  spoke to  9  expressiveness updated from  0.71484375  to  0.6953125
+95 :  1  spoke to  10  expressiveness updated from  0.5546875  to  0.55078125
+95 :  7  spoke to  1  expressiveness updated from  0.56640625  to  0.546875
+96 :  7  spoke to  2  expressiveness updated from  0.5546875  to  0.55078125
+96 :  7  spoke to  3  expressiveness updated from  0.5390625  to  0.55078125
+95 :  7  spoke to  4  expressiveness updated from  0.5546875  to  0.55078125
+96 :  7  spoke to  5  expressiveness updated from  0.5546875  to  0.55078125
+95 :  7  spoke to  6  expressiveness updated from  0.54296875  to  0.54296875
+96 :  7  spoke to  8  expressiveness updated from  0.5546875  to  0.56640625
+96 :  7  spoke to  9  expressiveness updated from  0.6953125  to  0.5703125
+95 :  7  spoke to  10  expressiveness updated from  0.55078125  to  0.55078125
+96 :  9  spoke to  1  expressiveness updated from  0.546875  to  0.546875
+96 :  9  spoke to  2  expressiveness updated from  0.55078125  to  0.546875
+97 :  9  spoke to  3  expressiveness updated from  0.55078125  to  0.55859375
+96 :  9  spoke to  4  expressiveness updated from  0.55078125  to  0.546875
+96 :  9  spoke to  5  expressiveness updated from  0.55078125  to  0.546875
+96 :  9  spoke to  6  expressiveness updated from  0.54296875  to  0.5390625
+96 :  9  spoke to  7  expressiveness updated from  0.54296875  to  0.5546875
+96 :  9  spoke to  8  expressiveness updated from  0.56640625  to  0.578125
+97 :  9  spoke to  10  expressiveness updated from  0.55078125  to  0.5390625
+97 :  10  spoke to  1  expressiveness updated from  0.546875  to  0.54296875
+97 :  10  spoke to  2  expressiveness updated from  0.546875  to  0.54296875
+97 :  10  spoke to  3  expressiveness updated from  0.55859375  to  0.55078125
+97 :  10  spoke to  4  expressiveness updated from  0.546875  to  0.53515625
+97 :  10  spoke to  5  expressiveness updated from  0.546875  to  0.5390625
+98 :  10  spoke to  6  expressiveness updated from  0.5390625  to  0.52734375
+97 :  10  spoke to  7  expressiveness updated from  0.5546875  to  0.54296875
+97 :  10  spoke to  8  expressiveness updated from  0.578125  to  0.5703125
+97 :  10  spoke to  9  expressiveness updated from  0.5703125  to  0.56640625
+0.93896484375
+0.94140625
+0.94091796875
+0.93994140625
+0.93896484375
+0.93896484375
+0.9375
+0.93798828125
+0.94384765625
+99 :  10  spoke to  1  expressiveness updated from  0.54296875  to  0.54296875
+99 :  10  spoke to  2  expressiveness updated from  0.54296875  to  0.5390625
+99 :  10  spoke to  3  expressiveness updated from  0.55078125  to  0.546875
+99 :  10  spoke to  4  expressiveness updated from  0.53515625  to  0.53125
+99 :  10  spoke to  5  expressiveness updated from  0.5390625  to  0.53515625
+99 :  10  spoke to  6  expressiveness updated from  0.52734375  to  0.52734375
+99 :  10  spoke to  7  expressiveness updated from  0.54296875  to  0.5390625
+99 :  10  spoke to  8  expressiveness updated from  0.5703125  to  0.57421875
+99 :  10  spoke to  9  expressiveness updated from  0.56640625  to  0.56640625
+0.939453125
+99 :  7  spoke to  1  expressiveness updated from  0.54296875  to  0.5390625
+99 :  7  spoke to  2  expressiveness updated from  0.5390625  to  0.54296875
+99 :  7  spoke to  3  expressiveness updated from  0.546875  to  0.54296875
+100 :  7  spoke to  4  expressiveness updated from  0.53125  to  0.5390625
+99 :  7  spoke to  5  expressiveness updated from  0.53515625  to  0.5390625
+99 :  7  spoke to  6  expressiveness updated from  0.52734375  to  0.53515625
+100 :  7  spoke to  8  expressiveness updated from  0.57421875  to  0.57421875
+99 :  7  spoke to  9  expressiveness updated from  0.56640625  to  0.5625
+99 :  7  spoke to  10  expressiveness updated from  0.5390625  to  0.546875
+conf 0.939794921875
